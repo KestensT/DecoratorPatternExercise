@@ -1,2 +1,3 @@
-public class Decorator {
+public abstract class Decorator extends Lidkaart {
+
 }
